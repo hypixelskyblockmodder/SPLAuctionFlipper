@@ -1,0 +1,11 @@
+# Changelog
+
+## [1.9.2] - 2025-06-01
+### Added
+- Initial project structure and placeholder files
+- Base README and Forge build setup
+- Placeholder command `/flip help`
+
+### Upcoming
+- Live auction scanning
+- Deal filtering & tracking

@@ -1,0 +1,12 @@
+# 🤝 Contributing to SPL Auction Flipper
+
+Thanks for your interest! We're excited to build a helpful and community-driven flipping tool.
+
+## How to Contribute
+- Report bugs using the Issues tab
+- Suggest new features with Feature Requests
+- Fork the repo and submit a Pull Request
+
+## Development Notes
+- Target Minecraft 1.8.9
+- Built with ForgeGradle
