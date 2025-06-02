@@ -1,4 +1,4 @@
-# 💰 Hypixel Skyblock Auction Flipper Mod
+# 💰 SPL Auction Flipper
 
 Elevate your Hypixel Skyblock experience with our **Auction Flipper Mod** — a tool designed to help you find and flip underpriced items in the Auction House for profit. Whether you're new to flipping or a seasoned trader, this mod gives you the tools to dominate the market.
 
